@@ -4,11 +4,15 @@
 [![Joern](https://img.shields.io/badge/Joern-4.0.436-blue.svg)](https://joern.io/)
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://www.docker.com/)
 
+## Paper on Arxiv
+[Taint-Based Code Slicing for LLMs-based Malicious NPM Package Detection](https://arxiv.org/abs/2512.12313)
 ---
 ## Contributors
 - Gia-Thang Ho
 - Dang-Khoa Nguyen
 - Quang-Minh Pham
+- Phat T. Tran-Truong
+- Duc-Ly Vu
 
 ## Modules
 
