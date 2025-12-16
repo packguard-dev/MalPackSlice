@@ -1,0 +1,21 @@
+# Ignore build artifacts
+target/
+.bsp/
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore git
+.git/
+
+# Ignore astgen directory (will be downloaded in Docker)
+astgen/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db

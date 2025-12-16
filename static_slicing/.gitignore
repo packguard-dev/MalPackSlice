@@ -1,0 +1,61 @@
+# Build artifacts
+target/
+project/target/
+project/project/
+
+# SBT
+.bsp/
+.bloop/
+.metals/
+.scalafmt.conf
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+*~
+
+# Scala/Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Output directories - DO NOT COMMIT
+output/
+src/main/resources/output/
+src/test/resources/output/
+
+# Runtime state files - DO NOT COMMIT
+src/main/resources/checkpoint.txt
+src/main/resources/is_processing.txt
+
+# Malware samples - DO NOT COMMIT (downloaded in Docker)
+src/main/resources/input/malware_samples/
+src/test/resources/input/malware_samples/
+
+# astgen binaries - DO NOT COMMIT (downloaded by setup)
+astgen/
+
+# Test results
+test-results.json
+*.test.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+out/
+bin/
