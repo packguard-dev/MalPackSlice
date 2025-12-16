@@ -1,4 +1,4 @@
-# JSCodeSlicing
+# MalPackSlice
 
 [![Scala](https://img.shields.io/badge/Scala-3.6.4-red.svg)](https://www.scala-lang.org/)
 [![Joern](https://img.shields.io/badge/Joern-4.0.436-blue.svg)](https://joern.io/)
