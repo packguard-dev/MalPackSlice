@@ -5,6 +5,10 @@
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://www.docker.com/)
 
 ---
+## Contributors
+- Gia-Thang Ho
+- Dang-Khoa Nguyen
+- Quang-Minh Pham
 
 ## Modules
 
